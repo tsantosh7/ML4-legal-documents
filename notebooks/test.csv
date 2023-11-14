@@ -1,0 +1,147 @@
+	0	1
+0	"
+SAMPLE DESCRIPTION
+"	
+1	1. Case	
+2	2. Date of appeal hearing	
+3	3. Date of original trial/conviction	
+4	4. Keywords found in case	
+5	5. Decision Provide quote if short, otherwise summarise	
+6	6. Number of pages	
+7	"
+DEFENDANT DEMOGRAPHICS (code as 99 if not stated and cannot be inferred)
+"	
+8	7. Defendant’s gender?	
+9	8. Defendant’s age (at time of offence)?	
+10	9. Defendant’s nationality (at time of offence)?	
+11	10. Defendant’s employment status (at time of offence)?	
+12	11. Defendant’s education level (at time of offence)?	
+13	12. Defendant’s relationship status (at time of offence)? 	
+14	13. Did defendant have any children (at time of offence)?	
+15	14. Was defendant homeless (at time of offence)?	
+16	"
+APPEAL CASE/HEARING FACTORS (code as 99 if not stated and cannot be inferred)
+"	
+17	15. When was appeal initiated? (e.g., post-trial, post-conviction, post-sentence, other)	
+18	16. Who is appellant? (e.g., prosecution, defence, other)	
+19	17. What is appeal against? (e.g., conviction, sentence, both, other) 	
+20	18. What are the grounds/reason(s) for appeal? Provide quote if short, otherwise summarise	
+21	19. Was fresh evidence presented at appeal? 19b. If yes, was it Fingerprint/DNA/Digital evidence? 19c. If no, what was it?	
+22	20. Were new techniques used to re-examine old evidence at appeal?	
+23	21. Were new Fingerprint/DNA/Digital experts consulted by defence after original trial?	
+24	22. Were new Fingerprint/DNA/Digital experts consulted by prosecution after original trial?	
+25	23. Did new prosecution Fingerprint/DNA/Digital experts present evidence at appeal hearing?	
+26	24. Did new defence Fingerprint/DNA/Digital experts present evidence at appeal hearing?	
+27	25. Was concern expressed at appeal hearing about qualifications, knowledge, skills or experience of any new prosecution Fingerprint/DNA/Digital expert(s)?	
+28	26. Was any concern expressed at appeal hearing about qualifications, knowledge, skills or experience of any new defence Fingerprint/DNA/Digital expert(s)?	
+29	27. Did prosecution and defence Fingerprint/DNA/Digital expert conclusions disagree at appeal hearing?	
+30	28. What were the main areas of disagreement between prosecution and defence Fingerprint/DNA/Digital experts at appeal hearing? Provide quote if short, otherwise summarise	
+31	29. Did Fingerprint/DNA/Digital expert express his/her confidence in conclusion at appeal hearing? 29b. If yes, how? Provide quote if short, otherwise summarise	
+32	30. Were any new probabilities of Fingerprint/DNA match mentioned at appeal hearing?	
+33	31. For DNA evidence, were any new contamination/error rates presented at appeal hearing?	
+34	32. For Fingerprint evidence, were any (new) points of dissimilarity between sample and print presented at appeal hearing? 32b. If yes, how many?	
+35	33. Did appeal court raise concerns about prosecution or defence team misunderstanding fingerprint/DNA/Digital evidence? 33b. If yes, who raised it?	
+36	34. Did appeal court raise concerns about jury at original trial misunderstanding or having difficulty understanding fingerprint/DNA/Digital evidence? 34b. If yes, who raised it?	
+37	"35. Did appeal court raise concerns about judge at original trial misunderstanding fingerprint/DNA/Digital evidence? 35b. If yes, Who raised it?		"	
+38	"36. Did appeal court raise concerns about application of either wrong case law at original trial or ignoring right case law? If yes, who raised it?		"	
+39	"37. Did appeal court raise concerns about errors in judge’s summing up of case at original trial? 37b. If yes, who raised it?		"	
+40	"38. Did appeal court raise concerns about judge’s instructions confusing jury at original trial? 38b. If yes, who raised it?		"	
+41	"39. Did appeal court raise concerns about how fingerprint/DNA/Digital evidence was presented at original trial? 39b. If yes, who raised it?		"	
+42	"40. Did appeal court raise concerns that weight of fingerprint/DNA/Digital evidence was overstated in court by either prosecution/defence/judge at original trial? 40b. If yes, who raised it?	"	
+43	41. Did appeal court raise concerns about inadmissible evidence being presented at original trial? 41b. If yes, who raised it? 	
+44	42. Did appeal court refer to any existing case law? 42b. If yes, which?	
+45	43. Name of appeal judge(s)	
+46	44. Name of lawyer(s) in appeal hearing, including who they represent	
+47	"
+ORIGINAL CASE/TRIAL CHARACTERISTICS (code as 99 if not stated and cannot be inferred)
+"	
+48	45. Date of crime (first date)	
+49	46. Was defendant immediately treated as a suspect? 46b. If no, then how was defendant immediately treated?	
+50	47. Were there other suspects (arrests)?	
+51	48. Did the defendant plead guilty or was he/she convicted at trial? 48b. If convicted, then was the jury verdict unanimous or other?	
+52	49. Was this the first trial?	
+53	50. What offence(s) was defendant convicted of/plead guilty to?	
+54	51. Was there circumstantial evidence in the case? 51b. If yes, what?	
+55	52. Was there any other evidence in the case? 52b. If yes, what?	
+56	53. Did defendant provide an alibi for whereabouts at time of crime? 53b. If yes, was it corroborated?	
+57	54. What was the defendant’s original sentence?	
+58	55. Was case originally tried in Crown court or magistrates’ court?	
+59	56. Name of judge(s) in original trial	
+60	57. Name of lawyer(s) in original trial	
+61	"
+INVESTIGATIVE STAGE (code as 99 if not stated and cannot be inferred)"	
+62	COLLECTION	
+63	58. Was concern expressed at original trial or appeal about there being a chance of contamination of Fingerprint/DNA evidence prior to sample collection from the crime scene?	
+64	59. For DNA evidence, was concern expressed at original trial or about where the DNA came from? 59b. If yes, where?	
+65	60. Was concern expressed at original trial or appeal about there being potential for evidence tampering/planting?	
+66	61. Was there over a week delay between crime being committed and collection of Fingerprint/DNA or Digital evidence from crime scene?	
+67	62. How many Fingerprint/DNA samples were taken from crime scene? 	
+68	63. Was only one method used to collect the sample(s) or multiple methods?	
+69	64. Was concern expressed at original trial or appeal about the method(s) used to collect the sample?	
+70	65. Was the Fingerprint/DNA sample or Digital evidence in question considered by either the prosecution or defence experts to be partial or ambiguous?	
+71	66. Were evidence requests made according to the legal rules?	
+72	67. Was concern expressed at original trial or appeal about broken chain of custody i.e., who was looking after the Fingerprint/DNA sample(s) or Digital evidence after they were collected?	
+73	ANALYSIS	
+74	68. How much experience did the prosecution forensic examiner have?	
+75	69. How much experience did the defence examiner have?	
+76	70. Was concern expressed at original trial or appeal about the methods of Fingerprint/DNA/Digital analysis used?	
+77	71. Was concern expressed at original trial or appeal about there being a chance of the Fingerprint/DNA samples being degraded?	
+78	72. Did analysis involve ‘cold’ match from a database or comparison against a suspect?	
+79	73. Did initial examination of sample lead to conclusion that origin could not be determined?	
+80	74. Did initial examination of sample lead to conclusion that sample originated from defendant?	
+81	75. Was sample re-examined? 75b. If yes, did re-examination change initial conclusion?	
+82	76. Was Fingerprint/DNA/Digital examiner opinion/conclusion verified by another examiner?	
+83	77. For Fingerprint examination, how many points of similarity were found (if any)?	
+84	78. Was Fingerprint/DNA/Digital evidence destroyed before trial?	
+85	79. Was concern expressed at original trial or appeal about the quality of notes taken/report of the Fingerprint/DNA/Digital examiner?	
+86	"
+EVIDENTIARY STAGE (code as 99 if not stated and cannot be inferred)
+"	
+87	EXPERT TESTIMONY	
+88	80. Did (main) prosecution Fingerprint/DNA/Digital expert present evidence at original trial?	
+89	81. Was concern expressed at original trial or appeal about the qualifications, knowledge, skills or experience of prosecution Fingerprint/DNA/Digital expert(s)?	
+90	82. Was prosecution Fingerprint/DNA/Digital expert witness cross-examined by defence at original trial?	
+91	83. Did (main) defence Fingerprint/DNA/Digital expert present evidence at original trial?	
+92	84. Was concern expressed at original trial or appeal about the qualifications, knowledge, skills or experience of defence fingerprint/DNA/Digital expert(s)?	
+93	85. Was defence Fingerprint/DNA/Digital expert witness cross-examined by prosecution at original trial?	
+94	86. Was there a disagreement in conclusions made by prosecution and defence Fingerprint/DNA/Digital experts at original trial?	
+95	87. Was concern expressed at original trial or appeal about quality of prosecution expert reports?	
+96	88. Was concern expressed at original trial or appeal about quality of defence expert reports?	
+97	89. Were probabilities of fingerprint/DNA match mentioned at original trial?	
+98	90. Did Fingerprint/DNA/Digital expert express his/her confidence in conclusion at original trial? 90b. If yes, how?	
+99	91. For DNA evidence, were probabilities of match presented by prosecution expert at original trial?	
+100	92. For DNA evidence, were contamination/error rates presented at original trial?	
+101	93. For Fingerprint evidence, did the prosecution expert declare a match/individualisation at original trial?	
+102	94. For Fingerprint evidence, how many points of similarity between sample and print were presented at original trial?	
+103	95. For Fingerprint evidence, were any points of dissimilarity presented at original trial?	
+104	96. Did (prosecution or defence) Fingerprint/DNA/Digital experts try to explain any inconsistencies in evidence at original trial?	
+105	97. Was hearsay evidence presented at trial?	
+106	98. Was any bad character evidence presented at trial?	
+107	99. Did prosecution team fail to share relevant information with defence team before original trial?	
+108	JUDGE’S INSTRUCTIONS/JURY BEHAVIOR	
+109	100. Were visual images used to present Fingerprint/DNA/Digital evidence at original trial?	
+110	101. How did judge instruct jury to deal with Fingerprint/DNA/Digital evidence? Provide quote if short, otherwise summarise	
+111	ADDITIONAL DIGITAL QUESTIONS	
+112	"
+APPEAL CASE/HEARING FACTORS (code as 99 if not stated and cannot be inferred)
+"	
+113	102. For Digital evidence, were any technical problems presented at the appeal hearing? 102b If yes, what? Provide a quote if short, otherwise summarise	
+114	"
+DIGITAL - INVESTIGATIVE STAGE (code as 99 if not stated and cannot be inferred)"	
+115	COLLECTION	
+116	103. For Digital evidence, was concern expressed at original trial about problems securing the data?	
+117	104. For Digital evidence were there any concerns about data being missed during investigation?	
+118	105. For Digital evidence, was any data hidden over the network? 	
+119	106. For Digital evidence was any data hidden inside storage areas to make them invisible to the system commands and programs?	
+120	107. For Digital evidence, was any data corrupted?	
+121	108. For Digital evidence, was there any residual data wiping?	
+122	109. For Digital evidence, was concern expressed at the original trial or appeal about data sources being damaged?	
+123	ANALYSIS	
+124	110. For Digital evidence was any data encrypted?	
+125	111. For Digital evidence was any data hidden in a carrier file without modifying its outward appearance?	
+126	112. For Digital evidence, was any techniques used to obfuscate the source of the attack?	
+127	113. For Digital evidence, did the investigator have to analyse high volumes of data?	
+128	114. For Digital evidence, were the investigators restricted to analysing only recent data stored on volatile memory?	
+129	115. Were there any Co-defendants? 115b. If yes, how many?	
+130	116. Where the case involved co-defendant/s, was there a mixed verdict? 116b. If Yes, what were they?   	
+131	NOTES – PLEASE WRITE ANYTHING THAT YOU THINK IS IMPORTANT BUT WHICH IS NOT CODED ABOVE. THIS MAY INCLUDE QUOTES.	
